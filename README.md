@@ -1,6 +1,6 @@
-# Precision Anti-Cancer Drug Selection via Neural Ranking
+# Shedding light into neural learning to rank models for anticancer drug prioritization
 
-This repository contains the implementation of the methods proposed in the paper [PaperName], building upon the codebase from [BaselinePaper and repo].
+This repository contains the implementation of the methods proposed in the paper [*Shedding light into neural learning to rank models for anticancer drug prioritization*](), building upon the codebase from [DrugRanker](https://github.com/ninglab/DrugRanker).
 
 ## Environments
 Install packages under conda environments

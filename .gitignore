@@ -127,6 +127,8 @@ dmypy.json
 # data
 data/*
 !data/scripts/
+!data/cancer_genes.txt
+!data/README.md
 expts/
 *.csv
 
